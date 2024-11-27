@@ -3,7 +3,7 @@ import java.time.LocalDate;
 public class Exercise {
     public static void main(String[] args) {
         printIsLeapYear(2016);
-        recommendApplicationVersion(1, 2025);
+        recommendApplicationVersion(1, 2015);
         System.out.println("Количество дней доставки: " + calculateDeliveryDays(25));
 
     }
